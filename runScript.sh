@@ -12,3 +12,14 @@ ampl knapsackRun/knapsackRun256.file > knapsackOutput/knapsack256.output
 ampl knapsackRun/knapsackRun512.file > knapsackOutput/knapsack512.output
 ampl knapsackRun/knapsackRun1024.file > knapsackOutput/knapsack1024.output
 
+ampl colorRun/colorRun12-3.file > colorOutput/color12-3.output
+ampl colorRun/colorRun12-4.file > colorOutput/color12-4.output
+ampl colorRun/colorRun24-4.file > colorOutput/color24-4.output
+ampl colorRun/colorRun24-5.file > colorOutput/color24-5.output
+ampl colorRun/colorRun48-5.file > colorOutput/color48-5.output
+ampl colorRun/colorRun48-6.file > colorOutput/color48-6.output
+ampl colorRun/colorRun96-6.file > colorOutput/color96-6.output
+ampl colorRun/colorRun96-7.file > colorOutput/color96-7.output
+ampl colorRun/colorRun192-6.file > colorOutput/color192-6.output
+ampl colorRun/colorRu192-73.file > colorOutput/color192-7.output
+ampl colorRun/colorR192-8-3.file > colorOutput/color192-8.output

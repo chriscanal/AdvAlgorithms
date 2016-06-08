@@ -1,6 +1,8 @@
 option solver "/COEnet/Linux/ampl/cplex";
-model knapsack-mod/knapsack.mod;
-data knapsack-dat/knapsack8.dat;
+option cplex_options ’time=600’;
+model color-mod/color.mod;
+data color-dat/color24-4.dat;
 solve;
-display Total_Value;
+display Total_Conflicts;
+display Nodes;
 display X;

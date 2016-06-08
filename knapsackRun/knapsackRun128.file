@@ -1,0 +1,6 @@
+option solver "/COEnet/Linux/ampl/cplex";
+model knapsack-mod/knapsack.mod;
+data knapsack-dat/knapsack128.dat;
+solve;
+display Total_Value;
+display X;

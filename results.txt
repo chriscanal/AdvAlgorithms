@@ -1,0 +1,4 @@
+﻿Chris Canal
+Kenny Jean-Baptiste
+Advanced Algorithms Project 3
+Using CPLEX was significantly faster than any other implementation thus far with regards to the knapsack. It also produced perfect results for every instance, even the largest! We used a bash script to run all the programs at once. All the knapsacks finished in under one second. The color modules where a different story. The problem itself was much harder to model in ampl. We weren’t sure if we were doing it right and got syntax. The color didn’t produce favorable results. Perhaps our implementation was not the best.
